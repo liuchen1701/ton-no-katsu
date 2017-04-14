@@ -18,7 +18,7 @@ That's why we decided to settle down on visual steps tracker. It is obviously ea
 
 For multiplayer, aka remote race, it will be the same idea. A leaderboard will be shown if the user feels lonely even with some frineds racing along-- but not all of it. To make it less frustrating, the user WILL get a world rank for the track, but what is shown in the end is the user, potential friend in the race, and 2 closest other users.
 e.g. 
-       YOU WON!
+    YOU WON!
               BUT THERE ARE MORE TO CHALLENGE!
            Bob           28:15:33
            Cathy         28:17:34
@@ -27,4 +27,4 @@ e.g.
            Doug          30:17:28
            
 # Programming Distribution
-## All programming work will belong to Yuxiao Fang, since he is only remaining member of the group. All other people had failed to get enrolled in the class.
+## All programming work will belong to Yuxiao Fang, since he is the only remaining member of the group. All other members had failed to get enrolled in the class.
