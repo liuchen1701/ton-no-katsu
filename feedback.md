@@ -20,3 +20,14 @@ The fifth one, the midpoint finder, is also a really useful tiny tool. However, 
 
 Storyboard 6:
 For the sixth one, there are privacy concerns and ethical concerns you should consider. How can you get the information of criminal record, and can you publicize those on map, and will this even affect someone's lives or offend someone's rights? With the above concerns, frankly speaking I will not suggest this idea.
+
+
+
+
+Miguel: 
+
+Storyboard 7:
+I feel the concept of this app idea is very cool. It's simple & it can really serve for as a good morale boost. It can really open up a platform for people to get really creative and do random acts of kindness here on campus or in any other public space.
+
+Storyboard 8:
+Unfortunately, I do not like this idea very much as I feel its very similar to other apps out there like Craigslist or the UCSD Free & For Sale Facebook Groups. The target for this app is very limited to just cleaning supplies so that will limit your users. Maybe if you were to open up to all sorts of items being sold, then your idea would be a bit more solid.
